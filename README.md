@@ -44,43 +44,43 @@ La aplicación fue desarrollada en Java, permite buscar libros mediante la API d
 ## Demostracion de la aplicacion
 ### Menu
 #### 1.  Inicio al sistema.
-![Menu]()
+![Menu](https://github.com/edy-git/literatura-app/blob/main/img/01-menu.png?raw=true)
 #### 2. Opcion 1: Buscar 1er libro por titulo
-![Opciones]()
+![Opcion1Busqueda1](https://github.com/edy-git/literatura-app/blob/main/img/02-opcion-busqueda1.png?raw=true)
 #### 3. Resultado de la busqueda del 1er libro
-![ResultadoConverion1]()
+![ResultadoBusqueda1](https://github.com/edy-git/literatura-app/blob/main/img/03-resultado-busqueda1.png?raw=true)
 #### 4. Opcion 1: Buscar 2do libro por titulo
-![opciones2]()
+![Opcion1Busqueda2](https://github.com/edy-git/literatura-app/blob/main/img/04-opcion-busqueda2.png?raw=true)
 #### 5. Resultado de la busqueda del 2do libro
-![ResultadoConversion2]()
+![ResultadoBusqueda2](https://github.com/edy-git/literatura-app/blob/main/img/05-resultado-busqueda2.png?raw=true)
 #### 6. Listar libros registrados
-![Historial]()
+![ListarLibros](https://github.com/edy-git/literatura-app/blob/main/img/06-lista-libros-registrados.png?raw=true)
 #### 7. Listar autores registrados
-![Historial]()
+![ListarAutores](https://github.com/edy-git/literatura-app/blob/main/img/07-lista-autores-registrados.png?raw=true)
 #### 8. Buscar autores vivos por un determinado año
-![Historial]()
+![BuscarAutoresVivos](https://github.com/edy-git/literatura-app/blob/main/img/08-lista-autores-vivos.png?raw=true)
 #### 9. Listar autores vivos por un determinado año
-![Historial]()
+![MostrarAutoresVivos](https://github.com/edy-git/literatura-app/blob/main/img/09-lista-resultado-autores-vivos.png?raw=true)
 #### 10. Buscar libros regitrados por idioma
-![Historial]()
+![BuscarLibrosPorIdioma](https://github.com/edy-git/literatura-app/blob/main/img/10-opcion-menu-idioma.png?raw=true)
 #### 11. Listar libros regitrados por idioma
-![Historial]()
+![ListarLibrosPorIdioma](https://github.com/edy-git/literatura-app/blob/main/img/11-resultado-menu-idioma.png?raw=true)
 #### 12. Mostrar estadistica de descargas de libros
-![Historial]()
+![MostrarEstadistica](https://github.com/edy-git/literatura-app/blob/main/img/12-estadistica-descargas-libros.png?raw=true)
 #### 13. Top 10 de los mejores titulos de libros de Gutendex
-![Historial]()
+![Top10Titulos](https://github.com/edy-git/literatura-app/blob/main/img/13-top10-titulos-libros-populares.png?raw=true)
 #### 14. Top 10 de los mejores libros de Gutendex
-![Historial]()
+![Top10TitulosLibros](https://github.com/edy-git/literatura-app/blob/main/img/14-top10-libros-populares.png?raw=true)
 #### 15. Control de Errores
 En esta aplicacion se ha prestado atención al manejo de errores, para garantizar un comportamiento robusto y una experiencia de usuario fluida. A continuación, se mostrara el manejo de errores que se han implementado en el presente proyecto.
 
 >[!CAUTION]
 >- Error al ingresar un caracter desconocido y un valor fuera del menú principal.
->- ![ErrorMenuValor]()
+>- ![ErrorMenuValor](https://github.com/edy-git/literatura-app/blob/main/img/15-manejo-error1.png?raw=true)
 >- Error al ingresar un caracter no numerico y un valor numerico no previsto de un año en la base de datos.
->- ![ErrorMenuCaracter]()
+>- ![ErrorCaracterFecha](https://github.com/edy-git/literatura-app/blob/main/img/16-manejo-error2.png?raw=true)
 >- Error al ingresar un caracter desconocido y un valor fuera del menú de idioma.
->- ![ErrorValorConvertido]()
+>- ![ErrorMenuIdiomaValor](https://github.com/edy-git/literatura-app/blob/main/img/17-manejo-error3.png?raw=true)
 
 ##### 7.1 Captura de Excepciones
 Tambien se ha implementado bloques try-catch para capturar excepciones y manejarlas adecuadamente.
